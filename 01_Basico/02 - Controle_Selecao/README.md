@@ -1,34 +1,37 @@
- 1 - Questão: Crie um programa em Python que peça dois números ao usuário.Em seguida, você vai mostrar a soma, subtração, multiplicação, divisão, exponenciação e resto da divisão do primeiro número pelo segundo.
+# Modulo Básico - Controle de Seleção
 
+ 1 - Questão: Crie um programa em Python que peça dois números ao usuário.Em seguida, você vai mostrar a soma, subtração, multiplicação, divisão, exponenciação e resto da divisão do primeiro número pelo segundo.
+ 
  2 - Questão: Faça um programa que pergunte ao usuário quanto de dinheiro ele tem e em seguida diga quantos litros de combustível ele pode comprar e quantos kilometros o carro consegue andar com este tanto de combustível.
 
- 3 - Questão: Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:
-    A mensagem "Aprovado", se a média alcançada for maior ou igual a sete
-    A mensagem "Reprovado", se a média for menor do que sete
+ 3 - Questão: Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar: *A mensagem **"Aprovado"**, se a média alcançada for maior ou igual a sete, ou a mensagem **"Reprovado"**, se a média for menor do que sete.*
 
- 4 - Questão: Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.
-
+ 4 - Questão: Faça um Programa que pergunte em que turno você estuda. Peça para digitar M-matutino ou V-Vespertino ou N- Noturno. Imprima a mensagem *"Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!"*, conforme o caso.
 
  5 - Questão: Faça um Programa que leia três números e mostre-os em ordem decrescente.
 
  6 - Questão: Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério, baseado no salário atual:
-    salários até R$ 280,00 (incluindo) : aumento de 20%
-    salários entre R$ 280,00 e R$ 700,00 : aumento de 15%
+   
+    salários até R$ 280,00 (incluindo)    : aumento de 20%
+    salários entre R$ 280,00 e R$ 700,00  : aumento de 15%
     salários entre R$ 700,00 e R$ 1500,00 : aumento de 10%
-    salários de R$ 1500,00 em diante : aumento de 5%
+    salários de R$ 1500,00 em diante      : aumento de 5%
 
 7 - Questão: Faça um programa para o cálculo de uma folha de pagamento, sabendo que os descontos são do Imposto de Renda, que depende do salário bruto (conforme tabela abaixo) e 3% para o Sindicato e que o FGTS corresponde a 11% do Salário Bruto, mas não é descontado (é a empresa que deposita). O Salário Líquido corresponde ao Salário Bruto menos os descontos. O programa deverá pedir ao usuário o valor da sua hora e a quantidade de horas trabalhadas no mês.
+
     Desconto do IR:
     Salário Bruto até 900 (inclusive) - isento
     Salário Bruto até 1500 (inclusive) - desconto de 5%
     Salário Bruto até 2500 (inclusive) - desconto de 10%
-    Salário Bruto acima de 2500 - desconto de 20% Imprima na tela as informações, dispostas conforme o exemplo abaixo. No exemplo o valor da hora é 5 e a quantidade de hora é 220.
-
+    Salário Bruto acima de 2500 - desconto de 20% 
+    
+   Imprima na tela as informações, dispostas conforme o exemplo abaixo. No exemplo o valor da hora é 5 e a quantidade de hora é 220.
+  
     Salário Bruto: (5 * 220)        : R$ 1100,00
-    (-) IR (5%)                                : R$   55,00 
-    (-) INSS ( 10%)                       : R$  110,00
-    FGTS (11%)                            : R$  121,00
-    Total de descontos                : R$  165,00
-    Salário Liquido                       : R$  935,00
+    (-) IR (5%)                     : R$   55,00 
+    (-) INSS ( 10%)                 : R$  110,00
+    FGTS (11%)                      : R$  121,00
+    Total de descontos              : R$  165,00
+    Salário Liquido                 : R$  935,00
 
 8 - Questão: Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
