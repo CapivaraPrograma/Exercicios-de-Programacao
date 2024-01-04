@@ -35,3 +35,12 @@
     Salário Liquido                 : R$  935,00
 
 8 - Questão: Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
+
+9 - Questão: Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
+    
+    "Telefonou para a vítima? [S]im ou [N]ão"
+    "Esteve no local do crime? [S]im ou [N]ão"
+    "Mora perto da vítima? [S]im ou [N]ão"
+    "Devia para a vítima? [S]im ou [N]ão"
+    "Já trabalhou com a vítima? [S]im ou [N]ão"
+O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. * Se a pessoa responder positivamente a 2º questões ela deve ser classificada como **"Suspeita"**, entre 3º e 4º como **"Cúmplice"** e 5º como **"Assassino"**. Caso contrário, ele será classificado como "Inocente" *.
