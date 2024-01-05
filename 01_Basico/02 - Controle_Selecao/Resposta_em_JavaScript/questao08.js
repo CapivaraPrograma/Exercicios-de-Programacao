@@ -1,27 +1,18 @@
-dia_atual = parseInt(prompt("Dia da Semana:\n1 - Domingo\n2 - Segunda\n3 - Terça\n4 - Quarta\n5 - Quinta\n6 - Sexta\n7 - Sábado\nEsolha uma opção: "))
+    const deseja_sacar = parseFloat(prompt("Valor desejado de saque: [10 - 600]: "));
+    let valor_saque = deseja_sacar;
 
-switch(true){
-    case dia_atual == 1:
-        console.log("Dia: Domingo")
-        break
-    case dia_atual == 2:
-        console.log("Dia: Segunda")
-        break
-    case dia_atual == 3:
-        console.log("Dia: Terça")
-        break
-    case dia_atual == 4:
-        console.log("Dia: Quarta")
-        break
-    case dia_atual == 5:
-        console.log("Dia: Quinta")
-        break
-    case dia_atual == 6:
-        console.log("Dia: Sexta")
-        break
-    case dia_atual == 7:
-        console.log("Dia: Sábado")
-        break
-    default:
-        console.log("Opção Inválida")
-}
+    if (valor_saque < 10 || valor_saque > 600) {
+        console.log("Esse valor não é permitido");
+    } else {
+        const nota_cem = Math.floor(valor_saque / 100);
+        valor_saque -= nota_cem * 100;
+        const nota_cinquenta = Math.floor(valor_saque / 50);
+        valor_saque -= nota_cinquenta * 50;
+        const nota_dez = Math.floor(valor_saque / 10);
+        valor_saque -= nota_dez * 10;
+        const nota_cinco = Math.floor(valor_saque / 5);
+        valor_saque -= nota_cinco * 5;
+        const moeda_um = valor_saque;
+
+        console.log(`Para sacar R$ ${deseja_sacar}, você receberá ${nota_cem} nota(s) de cem, ${nota_cinquenta} nota(s) de cinquenta, ${nota_dez} nota(s) de dez, ${nota_cinco} nota(s) de cinco e ${moeda_um} moeda(s) de um real.`);
+    }

@@ -34,7 +34,10 @@
     Total de descontos              : R$  165,00
     Salário Liquido                 : R$  935,00
 
-8 - Questão: Faça um Programa que leia um número e exiba o dia correspondente da semana. (1-Domingo, 2- Segunda, etc.), se digitar outro valor deve aparecer valor inválido.
+8 - Questão: Faça um programa para um caixa eletrônico. O programa deverá perguntar ao usuário a valor do saque e depois informar quantas notas de cada valor serão fornecidas. *As notas disponíveis serão as de **1, 5, 10, 50 e 100 reais**. O valor **mínimo é de 10 reais** e o **máximo de 600 reais***. O programa não deve se preocupar com a quantidade de notas existentes na máquina.
+
+    Exemplo 1: Para sacar a quantia de 256 reais, o programa fornece duas notas de 100, uma nota de 50, uma nota de 5 e uma nota de 1;
+    Exemplo 2: Para sacar a quantia de 399 reais, o programa fornece três notas de 100, uma nota de 50, quatro notas de 10, uma nota de 5 e quatro notas de 1.
 
 9 - Questão: Faça um programa que faça 5 perguntas para uma pessoa sobre um crime. As perguntas são:
     
@@ -44,3 +47,18 @@
     "Devia para a vítima? [S]im ou [N]ão"
     "Já trabalhou com a vítima? [S]im ou [N]ão"
 O programa deve no final emitir uma classificação sobre a participação da pessoa no crime. * Se a pessoa responder positivamente a 2º questões ela deve ser classificada como **"Suspeita"**, entre 3º e 4º como **"Cúmplice"** e 5º como **"Assassino"**. Caso contrário, ele será classificado como "Inocente" *.
+
+10 - Questão: Um posto está vendendo diversos produtos com a seguinte tabela de preços:
+    
+    Alimentos          1 Unidade         Acima de 5 Unidades
+    Banana          R$ 2,50 por Kg         R$ 2,20 por Kg
+    Maçã            R$ 1,80 por Kg         R$ 1,50 por Kg
+    Melancia        R$ 3,00 por kg         R$ 2,70 por kg
+    
+    Combústivel     Até 20 litros        Acima de 20 litros     
+    Álcool:         R$ 1,90                desconto de 3%
+    Gasolina:       R$ 2,50                desconto de 5%
+    
+    Se a compra for feita no cartão do posto o cliente receberá ainda um desconto de 5% sobre o total a compra.
+   
+    Levando em consideração que cada cliente poderá levar apenas um dos tipos de de cada produto, porém não há limites para a quantidade de cada produto por cliente. Escreva um algoritmo que leia a quantidade de tipo de cada produto (codificado da seguinte forma: X-xproduto, Y-yproduto), o número de alimentos e litros vendidos, calcule o valor a ser pago pelo cliente e gere um cupom fiscal, contendo as informações da compra: tipo e quantidade de produtos comprados, preço total, tipo de pagamento, valor do desconto e valor a pagar. 
