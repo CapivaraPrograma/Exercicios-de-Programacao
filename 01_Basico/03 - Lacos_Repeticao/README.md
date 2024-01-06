@@ -12,6 +12,7 @@
         Estado Civil: 's', 'c', 'v', 'd';
         Use a função len(string) para saber o tamanho de um texto (número de caracteres).
 
- 4 - Questão
+ 4 - Questão: Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
+              Realize esse exercicio com while e depois refatore para for
 
  5 - Questão
