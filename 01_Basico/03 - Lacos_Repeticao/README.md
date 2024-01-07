@@ -17,3 +17,5 @@
  5 - Questão: Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreendido por eles, final do  programa além dos número printe também a soma
 
  6 - Questão: Faça um programa capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada. A saída deve ser conforme o exemplo abaixo: 
+
+ 7 - Questão: A série de Fibonacci é formada pela sequência 1,1,2,3,5,8,13,21,34,55,... Faça um programa capaz de gerar a série até o n−ésimo termo
