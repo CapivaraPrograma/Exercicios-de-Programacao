@@ -12,7 +12,8 @@
         Estado Civil: 's', 'c', 'v', 'd';
         Use a função len(string) para saber o tamanho de um texto (número de caracteres).
 
- 4 - Questão: Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50.
-              Realize esse exercicio com while e depois refatore para for
+ 4 - Questão: Faça um programa que imprima na tela apenas os números ímpares entre 1 e 50. Realize esse exercicio com while e depois refatore para for
 
- 5 - Questão
+ 5 - Questão: Faça um programa que receba dois números inteiros e gere os números inteiros que estão no intervalo compreendido por eles, final do  programa além dos número printe também a soma
+
+ 6 - Questão: Faça um programa capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada. A saída deve ser conforme o exemplo abaixo: 
