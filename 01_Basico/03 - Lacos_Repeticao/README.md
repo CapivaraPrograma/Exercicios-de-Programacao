@@ -30,4 +30,6 @@
        a8 = a7 + a6 = 13 + 8 = 21
        a9 = a8 + a7 = 21 + 13 = 34 
 
- 8 - Questão: Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores. O programa deve aceitar apenas números entre 0 e 1000. 
+ 8 - Questão: Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores. O programa deve aceitar *apenas números entre 0 e 1000*. 
+
+ 9 - Questão: Faça um programa que peça um número inteiro e determine se ele é ou não um número primo. *Um número primo é aquele que é divisível somente por ele mesmo e por 1*. Caso o número informando não seja primo, *exiba por quais número ele é divisível*. (O programa deverá mostrar também o número de divisões que ele executou para encontrar os números primos.)
