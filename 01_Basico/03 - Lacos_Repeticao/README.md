@@ -18,4 +18,16 @@
 
  6 - Questão: Faça um programa capaz de gerar a tabuada de qualquer número inteiro entre 1 a 10. O usuário deve informar de qual numero ele deseja ver a tabuada. A saída deve ser conforme o exemplo abaixo: 
 
- 7 - Questão: A série de Fibonacci é formada pela sequência 1,1,2,3,5,8,13,21,34,55,... Faça um programa capaz de gerar a série até o n−ésimo termo
+ 7 - Questão:  Faça um programa capaz de gerar a série até o n−ésimo termo da sequência de Fibonacci. É formada pela sequência 1,1,2,3,5,8,13,21,34,55,...
+
+       a1 = 1
+       a2 = 1
+       a3 = a2 + a1 = 1 + 1 = 2
+       a4 = a3 + a2 = 2 + 1 = 3
+       a5 = a4 + a3 = 3 + 2 = 5
+       a6 = a5 + a4 = 5 + 3 = 8
+       a7 = a6 + a5 = 8 + 5 = 13
+       a8 = a7 + a6 = 13 + 8 = 21
+       a9 = a8 + a7 = 21 + 13 = 34 
+
+ 8 - Questão: Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores. O programa deve aceitar apenas números entre 0 e 1000. 
