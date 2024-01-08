@@ -33,3 +33,5 @@
  8 - Questão: Faça um programa que, dado um conjunto de N números, determine o menor valor, o maior valor e a soma dos valores. O programa deve aceitar *apenas números entre 0 e 1000*. 
 
  9 - Questão: Faça um programa que peça um número inteiro e determine se ele é ou não um número primo. *Um número primo é aquele que é divisível somente por ele mesmo e por 1*. Caso o número informando não seja primo, *exiba por quais número ele é divisível*. (O programa deverá mostrar também o número de divisões que ele executou para encontrar os números primos.)
+
+ 10 - Questão: Faça um programa que peça para n pessoas a sua idade, ao final o programa devera verificar se a média de idade da turma varia entre 0 e 25,26 e 60 e maior que 60; e então, dizer se a turma é jovem, adulta ou idosa, conforme a média calculada.
