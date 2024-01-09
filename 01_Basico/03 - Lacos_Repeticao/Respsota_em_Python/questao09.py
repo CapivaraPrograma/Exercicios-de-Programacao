@@ -1,4 +1,3 @@
-
 numero = int(input("Digite um número inteiro para verificar se é primo: "))
 if numero <= 1:
     print(f"O número {numero} não é primo")
