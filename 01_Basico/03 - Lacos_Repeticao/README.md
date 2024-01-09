@@ -35,3 +35,5 @@
  9 - Questão: Faça um programa que peça um número inteiro e determine se ele é ou não um número primo. *Um número primo é aquele que é divisível somente por ele mesmo e por 1*. Caso o número informando não seja primo, *exiba por quais número ele é divisível*. (O programa deverá mostrar também o número de divisões que ele executou para encontrar os números primos.)
 
  10 - Questão: Faça um programa que peça para n pessoas a sua idade, ao final o programa devera verificar se a média de idade da turma varia entre 0 e 25,26 e 60 e maior que 60; e então, dizer se a turma é jovem, adulta ou idosa, conforme a média calculada.
+
+ 11 - Questão: Faça um programa que calcule o valor total investido por um colecionador em sua coleção de quadrinhos e o valor médio gasto em cada um deles. O usuário deverá informar a quantidade de quadrinhos e o valor para em cada um.
