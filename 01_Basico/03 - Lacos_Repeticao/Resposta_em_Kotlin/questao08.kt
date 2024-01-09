@@ -1,21 +1,21 @@
-fun manin(){
+fun main() {
     var maior = -1000
-    var menor = 1000
-    while (True) {
-        valor = input("\nSe deseja parar digite 'parar'\nDigite um número entre 0 e 1000: ")
-        
-        if (valor == "parar"):
-
+var menor = 1000
+    while (true) {
+        println("Digite um número entre 0 e 1000:")
+        var valor = readLine()!!
+        if (valor == "parar") {
             break
-        else:
-            numero = int(valor)
-            if (numero > maior):
+        }else{
+            var numero: Int = valor.toInt()
+            if (numero > maior){
                 maior = numero
-            else:
-                if (numero < menor):
+            }else {
+                if (numero < menor) {
                     menor = numero
+                }
+            }
+        }
     }
-    
-                
-    print(f"O maior número é {maior} e o menor número é {menor}")
+    println("O maior número é $maior e o menor número é $menor")
 }
