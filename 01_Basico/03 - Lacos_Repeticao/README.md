@@ -37,3 +37,27 @@
  10 - Questão: Faça um programa que peça para n pessoas a sua idade, ao final o programa devera verificar se a média de idade da turma varia entre 0 e 25,26 e 60 e maior que 60; e então, dizer se a turma é jovem, adulta ou idosa, conforme a média calculada.
 
  11 - Questão: Faça um programa que calcule o valor total investido por um colecionador em sua coleção de quadrinhos e o valor médio gasto em cada um deles. O usuário deverá informar a quantidade de quadrinhos e o valor para em cada um.
+
+ 12 - Questão: Faça um programa que implemente uma caixa registradora rudimentar. O programa deverá receber um número desconhecido de valores referentes aos preços das mercadorias. Um valor **zero** deve ser informado pelo operador para indicar o final da compra. O programa deve então mostrar o total da compra e perguntar o valor em dinheiro que o cliente forneceu, para então calcular e mostrar o valor do troco. Após esta operação, o programa deverá voltar ao ponto inicial, para registrar a próxima compra. A saída deve ser conforme o exemplo abaixo:
+
+            Lojas Tabajara 
+            Produto 1: R$ 2.20
+            Produto 2: R$ 5.80
+            Produto 3: R$ 0
+            Total: R$ 9.00
+            Dinheiro: R$ 20.00
+            Troco: R$ 11.00
+
+13 - Questão: Em uma eleição presidencial existem quatro candidatos. Os votos são informados por meio de código. Os códigos utilizados são:
+1 , 2, 3, 4  - Votos para os respectivos candidatos 
+(você deve montar a tabela ex: 1 - Jose/ 2- João/etc)
+5 - Voto Nulo
+6 - Voto em Branco
+Faça um programa que calcule e mostre:
+O total de votos para cada candidato;
+O total de votos nulos;
+O total de votos em branco;
+A percentagem de votos nulos sobre o total de votos;
+A percentagem de votos em branco sobre o total de votos. Para finalizar o conjunto de votos tem-se o valor zero
+
+(Colocar para editar depois: 31 sim, 33 sim,  36 sim, 37 sim, 38 talves,  40 sim, 41 sim,  44 sim, 45 talvez, 46 talvez, 47 sim, 49 sim,)
