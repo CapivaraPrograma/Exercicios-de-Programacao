@@ -60,4 +60,4 @@ O total de votos em branco;
 A percentagem de votos nulos sobre o total de votos;
 A percentagem de votos em branco sobre o total de votos. Para finalizar o conjunto de votos tem-se o valor zero
 
-(Colocar para editar depois: 31 sim, 33 sim,  36 sim, 37 sim, 38 talves,  40 sim, 41 sim,  44 sim, 45 talvez, 46 talvez, 47 sim, 49 sim,)
+( 36 sim, 37 sim, 38 sim, 40 sim, 41 sim ,42 sim,43 sim, 45 talvez, 46 talvez, 47 sim, 48 sim 49 sim,)
