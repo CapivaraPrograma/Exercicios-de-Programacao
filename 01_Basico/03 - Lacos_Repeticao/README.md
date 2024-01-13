@@ -48,16 +48,12 @@
             Dinheiro: R$ 20.00
             Troco: R$ 11.00
 
-13 - Questão: Em uma eleição presidencial existem quatro candidatos. Os votos são informados por meio de código. Os códigos utilizados são:
-1 , 2, 3, 4  - Votos para os respectivos candidatos 
-(você deve montar a tabela ex: 1 - Jose/ 2- João/etc)
-5 - Voto Nulo
-6 - Voto em Branco
-Faça um programa que calcule e mostre:
-O total de votos para cada candidato;
-O total de votos nulos;
-O total de votos em branco;
-A percentagem de votos nulos sobre o total de votos;
-A percentagem de votos em branco sobre o total de votos. Para finalizar o conjunto de votos tem-se o valor zero
+13 - Questão: Faça um programa que calcule e mostre os resultados de uma eleição presidencial existem quatro candidatos. Os votos são informados por meio de código. Os códigos utilizados são: 1 - Jose/ 2- João/ 3 - Maria/ 4 - Paula/ n5 - Voto Nulo/ 6 - Voto Branco. O programa deve retorna os seguintes resultados:
+      
+      O total de votos para cada candidato;
+      O total de votos nulos;
+      O total de votos em branco;
+      A percentagem de votos nulos sobre o total de votos;
+      A percentagem de votos em branco sobre o total de votos. Para finalizar o conjunto de votos tem-se o valor zero
 
 ( 36 sim, 37 sim, 38 sim, 40 sim, 41 sim ,42 sim,43 sim, 45 talvez, 46 talvez, 47 sim, 48 sim 49 sim,)
