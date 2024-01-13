@@ -1,4 +1,3 @@
-@file:JvmName("JDoodle")
 fun main() {
     // Variáveis Criadas
     var total_votos = 0

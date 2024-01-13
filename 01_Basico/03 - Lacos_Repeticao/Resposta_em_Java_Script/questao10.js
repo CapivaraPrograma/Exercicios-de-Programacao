@@ -2,7 +2,7 @@ let qtd_pessoa = parseInt(prompt("Quantas pessoas tem na turma: "))
 let soma_idades = 0
 var pessoa = 1
 
-for (i= 0; i<+ qtd_pessoa; 1) {
+for (i= 0; i<= qtd_pessoa; 1) {
     let idade = parseInt(prompt(`Digite a idade da ${pessoa}º pessoa: `))
     soma_idades += idade
     i++
