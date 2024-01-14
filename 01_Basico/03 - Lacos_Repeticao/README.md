@@ -69,4 +69,6 @@
       5 X 7 = 35
       Obs: Você deve verificar se o usuário não digitou o final menor que o inicial.
 
+15 - Questão: Uma academia deseja fazer um senso entre seus clientes para descobrir o mais alto, o mais baixo, a mais gordo e o mais magro, para isto você deve fazer um programa que pergunte a cada um dos clientes da academia seu código, sua altura e seu peso. O final da digitação de dados deve ser dada quando o usuário digitar 0 (zero) no campo código. Ao encerrar o programa também deve ser informados os códigos e valores do cliente mais alto, do mais baixo, do mais gordo e do mais magro, além da média das alturas e dos pesos dos clientes
+
 37 sim, 38 sim, 40 sim, 41 sim ,42 sim,43 sim, 45 talvez, 46 talvez, 47 sim, 48 sim 49 sim
