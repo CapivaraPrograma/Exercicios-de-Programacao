@@ -73,4 +73,12 @@
 
 16 - Questão: Faça um programa que calcule o salário atual de um funcionário com base no tempo de serviço e no salário inicial fornecido pelo usuário. O aumento percentual para o primeiro ano é de 1,5%. Para os anos subsequentes, o aumento percentual é sempre o dobro do percentual do ano anterior. O programa deve exibir o salário atual do funcionário.
 
-38 sim, 40 sim, 41 sim ,42 sim,43 sim, 45 talvez, 46 talvez, 47 sim, 48 sim 49 sim
+17 - Questão: Faça um programa que receba as estatísticas de cidades brasileiras para coletar dados sobrde acidentes de trânsito. Levando em conta os seguintes dados:
+Nome da cidade;
+Número de veículos de passeio (em 1999);
+Número de acidentes de trânsito com vítimas (em 1999). Deseja-se saber:
+Qual o maior e menor índice de acidentes de transito e a que cidade pertence;
+Qual a média de veículos de todas as cidades;
+Qual a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio.
+
+41 sim ,42 sim,43 sim, 45 talvez, 46 talvez, 47 sim, 48 sim 49 sim
