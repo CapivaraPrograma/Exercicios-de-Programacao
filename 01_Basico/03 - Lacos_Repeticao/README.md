@@ -82,15 +82,74 @@ Qual a média de veículos de todas as cidades;
 Qual a média de acidentes de trânsito nas cidades com menos de 2.000 veículos de passeio.
 
 18 - Questão: Faça um programa que receba o valor de uma dívida e mostre uma tabela com os seguintes dados: valor da dívida, valor dos juros, quantidade de parcelas e valor da parcela. Os juros e a quantidade de parcelas seguem a tabela abaixo:
-Quantidade de Parcelas  % de Juros sobre o valor inicial da dívida
 
-      1       0
-      3       10
-      6       15
-      9       20    25
-      Exemplo de saída do programa:
-      Valor da Dívida Valor dos Juros Quantidade de Parcelas  Valor da Parcela
-      R$ 1.000,00     0               1                       R$  1.000,00
-      R$ 1.100,00     100             3                       R$    366,00
-      R$ 1.150,00     150             6                       R$    191,67
-42 sim,43 sim, 45 talvez, 46 talvez, 47 sim, 48 sim 49 sim
+      *Quantidade de Parcelas*  % de Juros sobre o valor inicial da dívida
+                1                                   0
+                3                                  10
+                6                                  15
+                9                                  20    
+               12                                  25
+
+Veja esse exemplo des saída do programa:
+
+      *Valor da Dívida* *Valor dos Juros* *Quantidade de Parcelas*  *Valor da Parcela*
+        R$ 1.000,00        R$   0,0                  1                  R$  1.000,00
+        R$ 1.100,00        R$ 100,00                 3                  R$    366,00
+        R$ 1.150,00        R$ 150,00                 6                  R$    191,67
+
+19 - Questão: Faça um programa que leia uma quantidade indeterminada de números positivos e conte quantos deles estão nos seguintes intervalos: [0-25], [26-50], [51-75] e [76-100]. A entrada de dados deverá terminar quando for lido um número negativo.
+
+20 - Questão: Faça um programa com base no seguinte carápio de uma lanchonete:
+      
+      *Especificação*  *Código*  *Preço*
+      Cachorro Quente    100     R$ 1,20
+      Bauru Simples      101     R$ 1,30
+      Bauru com ovo      102     R$ 1,50
+      Hambúrguer         103     R$ 1,20
+      Cheeseburguer      104     R$ 1,30
+      Refrigerante       105     R$ 1,00
+
+ O programa deve pedir o código dos itens pedidos e as quantidades desejadas. Calcule e mostre o valor a ser pago por item (preço * quantidade) e o total geral do pedido. Considere que o cliente deve informar quando o pedido deve ser encerrado.
+
+ 21 - Questão: Desenvolver um programa para verificar a nota do aluno em uma prova com 10 questões, o programa deve perguntar ao aluno a resposta de cada questão e ao final comparar com o gabarito da prova, que deve ser digita pelo professor, e assim calcular o total de acertos e a nota (atribuir 1 ponto por resposta certa). Após cada aluno utilizar o sistema deve ser feita uma pergunta se outro aluno vai utilizar o sistema. Após todos os alunos terem respondido informar: *Maior e Menor Acerto*, *Total de Alunos que utilizaram o sistema*, *A Média das Notas da Turma.*
+
+22 - Questão: Em uma competição de salto em distância cada atleta tem direito a cinco saltos. No final da série de saltos de cada atleta, o melhor e o pior resultados são eliminados. O seu resultado fica sendo a média dos três valores restantes. Você deve fazer um programa que receba o nome e as cinco distâncias alcançadas pelo atleta em seus saltos e depois informe a média dos saltos conforme a descrição acima informada (retirar o melhor e o pior salto e depois calcular a média). Faça uso de uma lista para armazenar os saltos. Os saltos são informados na ordem da execução, portanto não são ordenados. O programa deve ser encerrado quando não for informado o nome do atleta. A saída do programa deve ser conforme o exemplo abaixo:
+      Atleta: Rodrigo Curvêllo
+
+      Primeiro Salto: 6.5 m
+      Segundo Salto: 6.1 m
+      Terceiro Salto: 6.2 m
+      Quarto Salto: 5.4 m
+      Quinto Salto: 5.3 m
+
+      Melhor salto:  6.5 m
+      Pior salto: 5.3 m
+      Média dos demais saltos: 5.9 m
+
+      Resultado final:
+      Rodrigo Curvêllo: 5.9 m
+23 - Questão: Em uma competição de ginástica, cada atleta recebe votos de sete jurados. A melhor e a pior nota são eliminadas. A sua nota fica sendo a média dos votos restantes. Você deve fazer um programa que receba o nome do ginasta e as notas dos sete jurados alcançadas pelo atleta em sua apresentação e depois informe a sua média, conforme a descrição acima informada (retirar o melhor e o pior salto e depois calcular a média com as notas restantes). As notas não são informados ordenadas. Um exemplo de saída do programa deve ser conforme o exemplo abaixo:
+
+      Atleta: Aparecido Parente
+      Nota: 9.9
+      Nota: 7.5
+      Nota: 9.5
+      Nota: 8.5
+      Nota: 9.0
+      Nota: 8.5
+      Nota: 9.7
+
+      Resultado final:
+      Atleta: Aparecido Parente
+      Melhor nota: 9.9
+      Pior nota: 7.5
+      Média: 9,04
+
+24 - Questão: Faça um programa que peça um numero inteiro positivo e em seguida mostre este numero invertido.
+Exemplo:
+  12376489
+  => 98467321
+
+25 - Questão: Faça um programa que mostre os n termos da Série a seguir e no final imprima no final a soma da série:
+      
+      S = 1/1 + 2/3 + 3/5 + 4/7 + 5/9 + ... + n/m. 
