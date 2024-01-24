@@ -42,3 +42,14 @@ para um n informado pelo usuário. Use uma função que receba um valor n inteir
 
 15 - Calculadora em Python usando Funções
 Faça uma calculadora, usando funções. O script pergunta qual operação o usuário deseja rodar (soma, subtração, multiplicação ou divisão) e executa a operação.A calculadora deve ser executada quantas vezes o usuário desejar.
+
+Atividade Bônus: Crie um jogo em Python onde o computador vai sortear um número de 1 até 100.
+Em seguida, você vai tentar adivinhar que número foi esse.
+
+A cada tentativa, ele vai te dizer se seu palpite foi alto, baixo ou se você acertou.
+Quando acertar, deve mostrar quantas tentativas você fez até acertar.
+
+Pessoal, de coração: tente.
+Tente muito, tente novamente, mesmo que fique grande, horroroso, todo remendado...mas tente.
+
+Orientação: Para fazer esse exercicio você vai precisar utilizar a função randint().
