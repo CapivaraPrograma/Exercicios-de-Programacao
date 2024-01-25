@@ -1,5 +1,5 @@
 1 - Questão:  Crie uma função que recebe um número e exiba seu quadrado.
-2 - Questão: Crie um programa em Python que peça o nome e o sobrenome de uma pessoa, depois exiba na tela a mensagem "Olá sobrenome, nome".
+2 - Questão: Crie que receba dois parametros, nome e sobrenome e depois exiba na tela a mensagem "Olá sobrenome, nome".
 
 3 - Questão: Crie um script em Python que pede uma frase (string) ao usuário e em seguida um caractere. Em seguida, seu script deve dizer quantas vezes aquele caractere apareceu na frase digitar. Use função com parâmetros.
 
