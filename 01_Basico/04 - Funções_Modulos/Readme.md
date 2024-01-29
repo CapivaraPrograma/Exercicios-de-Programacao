@@ -4,7 +4,7 @@
 
 3 - Questão: Crie um script que pede uma frase (string) do usuário e em seguida um caractere. Em seguida, seu script deve dizer quantas vezes aquele caractere apareceu na frase digitar. Use função com parâmetros.
 
-4 - Questão: Escreva um script em Python que pergunta o preço de um produto e mostre:
+4 - Questão: Utilizando o conceito de funções, escreva um script que pergunta o preço de um produto e mostre:
 
     Preço original
     Desconto em porcentagem

@@ -1,5 +1,8 @@
 fun main(){
-    val a = 12
-    val b = 12
-    print("${a + b}")
+    println("Digite um número: )
+    val a = readLine()!!.toInt()
+    println("Digite outro número: )
+    val b = readLine()!!.toInt()
+    val soma = a + b
+    println("A soma de ${a} + ${b} é: {soma})
 }
