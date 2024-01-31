@@ -1,6 +1,6 @@
 # Modulo Básico - Controle de Seleção
 
- 1 - Questão: Crie um programa em Python que peça dois números ao usuário.Em seguida, você vai mostrar a soma, subtração, multiplicação, divisão, exponenciação e resto da divisão do primeiro número pelo segundo.
+ 1 - Questão: Crie um programa que peça dois números ao usuário.Em seguida, você vai mostrar a soma, subtração, multiplicação, divisão, exponenciação e resto da divisão do primeiro número pelo segundo.
  
  2 - Questão: Faça um programa que pergunte ao usuário quanto de dinheiro ele tem e em seguida diga quantos litros de combustível ele pode comprar e quantos kilometros o carro consegue andar com este tanto de combustível.
 
